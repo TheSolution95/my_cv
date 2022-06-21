@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: arial, sans-serif;
+    text-decoration: none;
+}
+
+.profilePicture {
+    width: 15px;
+    height: 25px;
+    display: block;
+    margin: auto;
+}
+
+#introSection {
+    margin: 100px 300px;
+    text-align: center;
+    color: aliceblue;
+    padding: 150px;
+    border: 2px;
+    border-width: 50px;
+    background-color: black;
+}
+
+#aboutSection {
+    margin: 100px 300px;
+    text-align: center;
+    color: aliceblue;
+    padding: 150px;
+    border: 2px;
+    border-width: 50px;
+    background-color: teal;
+}
+
+.aboutContent {
+    text-align: left;
+}
+
+.personalDetails {
+    text-align: right;
+}
