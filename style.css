@@ -7,36 +7,25 @@
 }
 
 .profilePicture {
-    width: 15px;
-    height: 25px;
-    display: block;
-    margin: auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    margin-bottom: 20px;
 }
 
 #introSection {
     margin: 100px 300px;
     text-align: center;
     color: aliceblue;
-    padding: 150px;
+    padding: 50px;
     border: 2px;
     border-width: 50px;
     background-color: black;
 }
 
 #aboutSection {
-    margin: 100px 300px;
-    text-align: center;
+    margin: 50px 300px;
     color: aliceblue;
-    padding: 150px;
-    border: 2px;
-    border-width: 50px;
+    padding: 100px;
     background-color: teal;
-}
-
-.aboutContent {
-    text-align: left;
-}
-
-.personalDetails {
-    text-align: right;
 }
