@@ -14,18 +14,16 @@
 }
 
 #introSection {
-    margin: 100px 300px;
+    margin: 100px 360px;
     text-align: center;
     color: aliceblue;
     padding: 50px;
-    border: 2px;
-    border-width: 50px;
     background-color: black;
 }
 
 #aboutSection {
-    margin: 50px 300px;
+    margin: 100px 360px;
     color: aliceblue;
-    padding: 100px;
+    padding: 50px;
     background-color: teal;
 }
